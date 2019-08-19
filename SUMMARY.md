@@ -1,7 +1,9 @@
 # Summary
-
-* [前言](README.md)
-* [第一章](Chapter1/README.md)
+* [说明](README.md)
+* [前言](qianyan/README.md)
+* [致谢](zhixie/README.md)
+* [关于作者](zuozhe/README.md)
+* [第一章 体育财务的简介](Chapter1/README.md)
     * [第1节：衣](Chapter1/衣.md)
     * [第2节：食](Chapter1/食.md)
     * [第3节：住](Chapter1/住.md)
