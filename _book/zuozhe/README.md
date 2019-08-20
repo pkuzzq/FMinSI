@@ -1,5 +1,5 @@
 **作者简介**
----
+
 Matthew T.（Matt）Brown 是南卡罗来纳大学体育和娱乐管理的系主任和副教授。他教授研究生和本科生体育金融课程以及致力于体育金融和体育商业领域的研究。他目前的研究重点是税收实践和税收政策对职业体育联盟的影响。Brown 的研究成果在*Journal of Sport Management,* *Sport Marketing Quarterly*, *Entertainment and Sport Law Journal*, *International Journal of Sport Finance*以及*Sport Management Review*等刊物上发表。此外，他还出席了 70 场国家级和国际级会议。
 
 Brown 还一直是体育和旅游各类组织的行业顾问。他的客户包括爱国者积分、展览业研究中心、国际场馆经理协会、小联盟曲棍球队、小联盟棒球队、俄亥俄高尔夫球场所有者协会和南卡罗来纳州。他目前是莱克星顿 Countyblowfish 棒球队的顾问，该队是海岸平原联盟的一支木棒棒球队。除了与河豚队共事外，Brown 还担任南俄亥俄州铜斑蛇队的首席财务官和南俄亥俄州学院棒球俱乐部董事会的财务主管。他还担任了北美体育管理协会的财务主管。2003 年，Brown 被评为杰斐逊学院年度校友。
