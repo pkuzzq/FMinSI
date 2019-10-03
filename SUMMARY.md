@@ -6,6 +6,7 @@
 * [关于作者](zuozhe/README.md)
 
 ## 第 1 部分
+
 * [第一章 体育财务概论](Chapter1/README.md#第一章)
     * [1 引言](Chapter1/引言.md#引言)
     * [2 什么是财务](Chapter1/什么是财务.md#什么是财务)
@@ -36,21 +37,29 @@
 * [第四章 货币的时间价值](Chapter4/README.md)
 
 ## 第 2 部分
+
 * [第五章 财务管理概论](Chapter5/README.md)
 * [第六章 制作预算](Chapter6/README.md)
 * [第七章 债务和股权融资](Chapter7/README.md)
 * [第八章 资本融资](Chapter8/README.md)
 
 ## 第 3 部分
+
 * [第九章 设施融资](Chapter9/README.md)
 * [第十章 估值](Chapter10/README.md)
 * [第十一章 可行性研究](Chapter11/README.md)
 * [第十二章 经济影响分析](Chapter12/README.md)
 
 ## 第 4 部分
+
 * [第十三章 公共部门体育](Chapter13/README.md)
+    * [1 引言](Chapter13/引言.md#引言)
+    * [2 公共体育中的财务管理趋势](Chapter13/公共体育中的财务管理趋势.md#公共体育中的财务管理趋势)
+    * [3 资金的来源](Chapter13/资金的来源.md#资金的来源)
+    * [4 合作筹资](Chapter13/合作筹资.md#合作筹资)
+    * [5 结论](Chapter13/结论.md#结论)
+    * [参考文献](Chapter13/参考文献.md#参考文献)
 * [第十四章 学校体育](Chapter14/README.md)
 * [第十五章 职业体育](Chapter15/README.md)
 * [专业术语](GLOSSARY.md)
 * [索引](index/README.md)
-
