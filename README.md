@@ -21,5 +21,6 @@
 - gitbook
   - gitbook serve
   - gitbook build
+- 进行到第14章3节，财务运作
 
 # FMinSI
